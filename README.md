@@ -8,3 +8,5 @@ The below "teaching plan" is, therefore, not thought of as a plan that absolutel
 
 In short: do whatever you like and if people can use this repo for inspiration then .. great.
 
+### Evening #1
+.. To be continued ..
