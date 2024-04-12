@@ -11,9 +11,13 @@ In short: do whatever you like and if people can use this repo for inspiration t
 ### Evening #1
 As kids probably won't be interested in hearing about stuff like "Python was developed by a guy named Guido van Rossum and .. blah, blah, blah", then it might be a good idea to get them started by following these topics for starters.
 
-But before diving straight into coding it be wise to both ask and show them what Python is, how we write it and what we can do with it. Perhaps like this:
+#### Start with a minor seeesion of "show and tell"
+But before diving straight into coding it could be wise to both ask and show them what Python is, how we write it and what we can do with it. Perhaps like this:
 1. Ask them what a programming language is (to get them to think about that - at least)
 2. Show them that it's just some weird language we write in an IDE that tells the computer to do as we say
 3. Show them what one can do with Python (like code some stuff, obviously, create games, automate stuff, web scrape stuff and so on
 
-
+#### Download Python and VS Code
+From this - hopefully good - starting point one would obviously need to get the kids to download the following so that they can start coding:
+1. Download Python
+2. Download VS Code
