@@ -21,3 +21,25 @@ But before diving straight into coding it could be wise to both ask and show the
 From this - hopefully good - starting point one would obviously need to get the kids to download the following so that they can start coding:
 1. Download Python
 2. Download VS Code
+
+#### Install VS Code Extensions
+After having downloaded Python and VS Code make the kids download the following extensions for syntax help and easily running code:
+1. Python (by Microsoft)
+2. Code Runner
+
+#### Show and tell of how to code
+By having everything set up, then first show the kids how to code in VS Code by:
+1. Open VS Code
+2. Use the 'open folder' button to create a new folder as a workspace for their code
+3. Create a 'main.py' file
+4. Write some code - preferably just a single statement using the 'print' function
+
+
+
+
+
+
+
+
+
+
