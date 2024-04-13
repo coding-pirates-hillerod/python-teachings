@@ -35,6 +35,11 @@ By having everything set up, then first show the kids how to code in VS Code by:
 4. Write some code - preferably just a single statement using the 'print' function
 5. Show how to execute the code by using the "run" button provided by 'Code Runner'
 
+A code example of this process could just be something like executing the classic "Hello, World!" program like this:
+```python
+print("Hello, World!")
+```
+
 #### Make the kids code a simple 'Hello, World!' program
 Having shown the kids how to setup, write and execute Python code in VS Code, then have them code their own version of a 'Hello, World!' program. If they wanna print 'Hello, Mom!' instead, well, then fine - let them do whatever they like.
 
