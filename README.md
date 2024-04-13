@@ -27,7 +27,7 @@ After having downloaded Python and VS Code make the kids download the following 
 1. Python (by Microsoft)
 2. Code Runner
 
-#### Show and tell of how to code
+#### Show and tell of how to code (Est. time: 10 min)
 By having everything set up, then first show the kids how to code in VS Code by:
 1. Open VS Code
 2. Use the 'open folder' button to create a new folder as a workspace for their code
@@ -40,10 +40,10 @@ A code example of this process could just be something like executing the classi
 print("Hello, World!")
 ```
 
-#### Make the kids code a simple 'Hello, World!' program
+#### Make the kids code a simple 'Hello, World!' program (Est. time: 5 min)
 Having shown the kids how to setup, write and execute Python code in VS Code, then have them code their own version of a 'Hello, World!' program. If they wanna print 'Hello, Mom!' instead, well, then fine - let them do whatever they like.
 
-#### Show and tell how mulitple line statement execution works
+#### Show and tell how mulitple line statement execution works (Est. time: 5-10 min)
 In order for the kids to understand how coding really works, then it might just be a good idea to show them how the Python interpreter executes code line by line.
 
 Hence, one might first show them how these 2 lines of code gets executed one after the other:
