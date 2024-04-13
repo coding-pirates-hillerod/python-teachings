@@ -11,18 +11,18 @@ In short: do whatever you like and if people can use this repo for inspiration t
 ### Evening #1
 As kids probably won't be interested in hearing about stuff like "Python was developed by a guy named Guido van Rossum and .. blah, blah, blah", then it might be a good idea to get them started by following these topics for starters.
 
-#### Start with a minor session of "show and tell"
+#### Start with a minor session of "show and tell" (Est. time: 10-15 min)
 But before diving straight into coding it could be wise to both ask and show them what Python is, how we write it and what we can do with it. Perhaps like this:
 1. Ask them what a programming language is (to get them to think about that - at least)
 2. Show them that it's just some weird language we write in an IDE that tells the computer to do as we say
 3. Show them what one can do with Python (like code some stuff, obviously, create games, automate stuff, web scrape stuff and so on
 
-#### Download Python and VS Code
+#### Download Python and VS Code (Est. time: 20 min.)
 From this - hopefully good - starting point one would obviously need to get the kids to download the following so that they can start coding:
 1. Download Python
 2. Download VS Code
 
-#### Install VS Code Extensions
+#### Install VS Code Extensions (Est. time: 10 min)
 After having downloaded Python and VS Code make the kids download the following extensions for syntax help and easily running code:
 1. Python (by Microsoft)
 2. Code Runner
@@ -33,6 +33,13 @@ By having everything set up, then first show the kids how to code in VS Code by:
 2. Use the 'open folder' button to create a new folder as a workspace for their code
 3. Create a 'main.py' file
 4. Write some code - preferably just a single statement using the 'print' function
+5. Show how to execute the code by using the "run" button provided by 'Code Runner'
+
+#### Make the kids code a simple 'Hello, World!' program
+Having shown the kids how to setup, write and execute Python code in VS Code, then have them code their own version of a 'Hello, World!' program. If they wanna print 'Hello, Mom!' instead, well, then fine - let them do whatever they like.
+
+#### Show and tell how mulitple line statement execution works
+In order for the kids to understand how coding really works, then it might just be a good idea to show them how the Python interpreter executes code line by line.
 
 
 
