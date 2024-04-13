@@ -46,9 +46,18 @@ Having shown the kids how to setup, write and execute Python code in VS Code, th
 #### Show and tell how mulitple line statement execution works
 In order for the kids to understand how coding really works, then it might just be a good idea to show them how the Python interpreter executes code line by line.
 
+Hence, one might first show them how these 2 lines of code gets executed one after the other:
+```python
+print("Hello,")
+print("World!")
+```
 
+And afterwards show them what happens when one reverses the order of execution of the same 2 lines:
 
-
+```python
+print("World!")
+print("Hello,")
+```
 
 
 
