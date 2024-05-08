@@ -59,6 +59,8 @@ print("World!")
 print("Hello,")
 ```
 
+#### Make the kids execute multiple lines of code (Est. time: 5 min)
+Having shown the kids how mulitple lines of code executen then have them do the same.
 
 
 
