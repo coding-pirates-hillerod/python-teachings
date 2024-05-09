@@ -40,7 +40,7 @@ A code example of this process could just be something like executing the classi
 print("Hello, World!")
 ```
 
-####3 Make the kids code a simple 'Hello, World!' program (Est. time: 5 min)
+##### Exercise: Make the kids code a simple 'Hello, World!' program (Est. time: 5 min)
 Having shown the kids how to setup, write and execute Python code in VS Code, then have them code their own version of a 'Hello, World!' program. If they wanna print 'Hello, Mom!' instead, well, then fine - let them do whatever they like.
 
 #### Show and tell how mulitple line statement execution works (Est. time: 5-10 min)
@@ -59,7 +59,7 @@ print("World!")
 print("Hello,")
 ```
 
-##### Make the kids execute multiple lines of code (Est. time: 5 min)
+##### Excercise: Make the kids execute multiple lines of code (Est. time: 5 min)
 Having shown the kids how mulitple lines of code executen then have them do the same.
 
 
