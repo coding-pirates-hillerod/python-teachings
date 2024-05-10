@@ -70,7 +70,8 @@ age = 80
 money 12345.678
 is_cool = True
 
-print(f"Hi, my name is {name} and I'm {age} years old and have {money} in the bank. And I'm totally cool right!? {is_cool} ")
+print(f"Hi, my name is {name} and I'm {age} years old and have {money} \
+in the bank. And I'm totally cool right!? {is_cool} ")
 ```
 
 ##### Exercise: Make the kids play around with variables (Est. time: 5 min)
