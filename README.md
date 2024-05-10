@@ -69,6 +69,8 @@ name = "Mogens"
 age = 80
 money 12345.678
 is_cool = True
+
+print(f"Hi, my name is {name} and I'm {age} years old and have this mush money in the bank: {money}. And I'm totally cool right!? {is_cool}")
 ```
 
 
