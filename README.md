@@ -62,7 +62,7 @@ print("Hello,")
 ##### Excercise: Make the kids execute multiple lines of code (Est. time: 5 min)
 Having shown the kids how mulitple lines of code executen then have them do the same.
 
-#### Show and tell how variables work
+#### Show and tell how variables work (Est. time: 5 min)
 Show the kids various types of variables like:
 ```python
 name = "Mogens"
@@ -70,8 +70,11 @@ age = 80
 money 12345.678
 is_cool = True
 
-print(f"Hi, my name is {name} and I'm {age} years old and have this mush money in the bank: {money}. And I'm totally cool right!? {is_cool} ")
+print(f"Hi, my name is {name} and I'm {age} years old and have {money} in the bank. And I'm totally cool right!? {is_cool} ")
 ```
+
+##### Exercise: Make the kids play around with variables (Est. time: 5 min)
+Let the kids use what variables they want and have them play around creating sentences using the "f-string".
 
 
 
