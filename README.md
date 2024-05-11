@@ -4,6 +4,6 @@ This repo is meant as a place to write down a somewhat more concrete and structu
 ## Teaching plan
 These (hopefuly quite concrete) thoughts about teaching kids Python are structured in a sort of "teachings per evening" so that it'll hopefully be more managable to teach the kids about this topic.
 
-The below "teaching plan" is, therefore, not thought of as a plan that absolutely need to follow step by step in order to teach kids Python. The general idea is more that this plan can be used as way of more easily getting started teaching kids about Python.
+A sort of "teaching plan per evening" can, therefore, be found under the "lecturees" folder. It is not thought of as a plan that one absolutely need to follow step by step in order to teach kids Python. The general idea is more that this plan can be used as way of more easily getting started teaching kids about Python.
 
 In short: do whatever you like and if people can use this repo for inspiration then .. great.
