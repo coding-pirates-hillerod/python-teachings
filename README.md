@@ -76,14 +76,14 @@ print(f"Hi, my name is {name} and I'm {age} years old and have {money} in the ba
 ##### Exercise: Make the kids play around with variables (Est. time: 5 min)
 Let the kids use what variables they want and have them play around creating sentences using the "f-string".
 
-#### Show and tell: The 'input' function
+#### Show and tell: The 'input' function (Est. time: 5 min)
 As the kids have now learned about variables then show them how Python's 'input' function work. Here's an example:
 ```python
 name = input("Hi, what's your name? ")
 print(f"Nice to meet you {name}!")
 ```
 
-##### Exercise: Play with the 'input' function
+##### Exercise: Play with the 'input' function (Est. time: 5 min)
 Well .. let the kids play around with the 'input' function.
 
 
