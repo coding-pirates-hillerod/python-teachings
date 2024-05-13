@@ -76,5 +76,6 @@ print(f"Nice to meet you {name}!")
 ### Exercise: Play with the 'input' function (Est. time: 5 min)
 Well .. let the kids play around with the 'input' function.
 
+### Show and tell: The 'len' function
 
 
