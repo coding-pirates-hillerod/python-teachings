@@ -86,4 +86,4 @@ print(f"Wauw .. your name contains {len(name} characters! How 'awesome' is that 
 ```
 
 ### Exercise: Try the 'len' function (Est. time: 5 min)
-
+With the above example in mind then just let the kids play around with the 'len' function how they like.
