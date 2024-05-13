@@ -76,7 +76,7 @@ print(f"Nice to meet you {name}!")
 ### Exercise: Play with the 'input' function (Est. time: 5 min)
 Well .. let the kids play around with the 'input' function.
 
-### Show and tell: The 'len' function
+## Show and tell: The 'len' function (Est. time: 5 min)
 In order to get the kids to understand that Python comes with a lot of functions "baked in" then show them how another built-in function like the 'len' function can be used in Python.
 
 Here's a simple example of how one could show that:
@@ -84,4 +84,6 @@ Here's a simple example of how one could show that:
 name = input("Hey! what's your full name? ")
 print(f"Wauw .. your name contains {len(name} characters! How 'awesome' is that .. ;P ")
 ```
+
+### Exercise: Try the 'len' function (Est. time: 5 min)
 
