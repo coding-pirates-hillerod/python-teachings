@@ -98,6 +98,6 @@ for i in range(0, 10):
   print(f"{i} ..")
 ```
 
-### Exercise: Count from 1 to 99
+### Exercise: Count from 1 to 99 (Est. time: 5 min)
 Based on this 'show and tell' of how to count from 1 to 0 then make the kids do the same but from 1 to 99.
 
