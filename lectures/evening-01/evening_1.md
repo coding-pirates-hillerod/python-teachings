@@ -87,3 +87,17 @@ print(f"Wauw .. your name contains {len(name} characters! How 'awesome' is that 
 
 ### Exercise: Try the 'len' function (Est. time: 5 min)
 With the above example in mind then just let the kids play around with the 'len' function how they like.
+
+## Show and tell: The 'range' function (Est. time: 5 min)
+In order to show the kids another useful built-in function then show them how the 'range' function work.
+
+Here's an example:
+```python
+print("Tæl fra 1 til 9")
+for i in range(0, 10):
+  print(f"{i} ..")
+```
+
+### Exercise: Count from 1 to 99
+Based on this 'show and tell' of how to count from 1 to 0 then make the kids do the same but from 1 to 99.
+
