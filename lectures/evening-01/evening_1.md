@@ -101,3 +101,22 @@ for i in range(0, 10):
 ### Exercise: Count from 1 to 99 (Est. time: 5 min)
 Based on this 'show and tell' of how to count from 1 to 0 then make the kids do the same but from 1 to 99.
 
+## Kids Exercise Time: Find and use a built-in function that rounds numbers
+
+### Step #1
+First of all, show the kids how they can easily find which built-in Python functions exists by doing a Google search on the term 'python built-in functions'.
+
+### Step #2
+From the results page show the correct link to Python's documentation that has an overview of all built-in functions.
+
+### Step #3
+Get the kids to do the following:
+1. Create a variable called "number" and assign this the value of 2.675 thats rounded to only **1** decimal
+2. Print the result of the rounded number
+
+### Solution
+The solution is as simple as:
+```python
+number = round(2.675, 1)
+print(number)
+```
