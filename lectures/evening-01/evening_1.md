@@ -120,3 +120,5 @@ The solution is as simple as:
 number = round(2.675, 1)
 print(number)
 ```
+## The End
+This will probably be enough for the first evening .. if not, then elaborate on this section of the repo, thanks! ;)
