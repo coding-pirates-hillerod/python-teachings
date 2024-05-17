@@ -25,7 +25,7 @@ print(type(boolean))
 ### Exercise: Play around with the 'type' function (Est. time: 5 min)
 Just let the kids play around with the 'type' function.
 
-## Show and tell: Type casting
+## Show and tell: Type casting (Est. time: 5 min)
 Now that the kids know about the 'type' and, therefore, should have a somewhat better understanding of the various data types in Python, it would probably be good to show them how one does 'type casting' in Python.
 
 And so, here's some examples:
@@ -39,3 +39,7 @@ print(f"I have {str(money)} dollars in the bank!!")
 to_decimal = 150
 print(float(to_decimal))
 ```
+
+### Exercise: Play around with the 'type casting' (Est. time: 5 min)
+Do like the header says ..
+
