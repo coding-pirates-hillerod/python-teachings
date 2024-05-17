@@ -43,3 +43,17 @@ print(float(to_decimal))
 ### Exercise: Play around with the 'type casting' (Est. time: 5 min)
 Do like the header says ..
 
+## Show and tell: Strings pt. 1
+For starters just tell the kids about how strings in Python is just text between quotes - double and single (but not mixed).
+
+Here's an example:
+```python
+doubble_quotes = "This is a string with double quotes"
+single_quotes = 'This is a string with single quotes'
+
+print(doubble_quotes, single_quotes)
+```
+
+
+
+
