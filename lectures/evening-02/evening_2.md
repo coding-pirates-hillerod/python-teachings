@@ -54,6 +54,17 @@ single_quotes = 'This is a string with single quotes'
 print(doubble_quotes, single_quotes)
 ```
 
+Based on that example, show the kids that a mixture of double and single quotes doesn't work:
+```python
+mixed_text = "This will not work'
 
+print(mixed_text)
+```
+
+### Exercise: Play around with double and single quotes
+Like the header says ..
+
+## Show and tell: Strings pt. 2 - slicing
+Stuff about slicing here ..
 
 
