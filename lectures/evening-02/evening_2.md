@@ -72,8 +72,11 @@ text = "Min mor hedder Ole.."
 print("From start until index")
 print(text[:5])
 
-print("From index til end")
+print("\nFrom index til end")
 print(text[3:])
+
+print("\nNegative slicing")
+print(name[:-5])
 ```
 
 ### Exercise: Slice your own name
@@ -83,5 +86,7 @@ name = "Pelle KLumpfeber"
 print(name[:6])
 ```
 
+## Show and tell: Strings pt. 3 - string methods
+https://www.w3schools.com/python/python_strings_modify.asp
 
 
