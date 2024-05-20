@@ -65,6 +65,23 @@ print(mixed_text)
 Like the header says ..
 
 ## Show and tell: Strings pt. 2 - slicing
-Stuff about slicing here ..
+Just show the kids that strings can be sliced in many ways:
+```python
+text = "Min mor hedder Ole.."
+
+print("From start until index")
+print(text[:5])
+
+print("From index til end")
+print(text[3:])
+```
+
+### Exercise: Slice your own name
+Just something like:
+```python
+name = "Pelle KLumpfeber"
+print(name[:6])
+```
+
 
 
