@@ -101,6 +101,20 @@ text = "  I have to many whitespaces ..     "
 print(text.strip())
 ```
 
+**Split text - split()**
+```python
+todos = " "Do the dishes, Take out the trash, Walk the dog"
+print(todos.split(","))
+```
+
+### Exercise: Split and strip a list of todos
+Given a list of 'todos' in one long string format with too many whitespaces, make the kids try to figure out how to first trim the text and then split it.
+
+Solution:
+```python
+todos = "   Do the dishes, Take out the trash, Walk the dog    "
+print(todos.trim().split(",))
+```
 
 
 
