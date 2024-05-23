@@ -87,6 +87,20 @@ print(name[:6])
 ```
 
 ## Show and tell: Strings pt. 3 - string methods
-https://www.w3schools.com/python/python_strings_modify.asp
+Just show and tell the kids that one can use on strings by use of "dot notation". Some examples are shown below:
+
+**Make stuff uppercase - upper()**
+```python
+name = input(WHat is your name? ")
+print(name.upper())
+```
+
+**Remove whitespace - strip()**
+```python
+text = "  I have to many whitespaces ..     "
+print(text.strip())
+```
+
+
 
 
