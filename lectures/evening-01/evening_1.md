@@ -106,8 +106,7 @@ Based on this 'show and tell' of how to count from 1 to 0 then make the kids do 
 ### Step #1
 First of all, show the kids how they can easily find which built-in Python functions exists by doing a Google search on the term 'python built-in functions'.
 
-<img width="1191" alt="search_for_python_built_in_functions" src="https://github.com/coding-pirates-hillerod/python-teachings/assets/21309287/0e5f5ba0-c4ed-40fb-b7ff-281350147d19">
-
+<img width="1191" alt="search_for_python_built_in_functions" src="https://github.com/coding-pirates-hillerod/python-teachings/assets/21309287/5f444897-04c6-4eff-ad69-18e2d6956dda">
 
 ### Step #2
 From the results page show the correct link to Python's documentation that has an overview of all built-in functions.
