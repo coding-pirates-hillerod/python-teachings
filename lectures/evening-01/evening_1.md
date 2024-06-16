@@ -111,6 +111,9 @@ First of all, show the kids how they can easily find which built-in Python funct
 ### Step #2
 From the results page show the correct link to Python's documentation that has an overview of all built-in functions.
 
+<img width="1359" alt="list_of_built_in_python_functions" src="https://github.com/coding-pirates-hillerod/python-teachings/assets/21309287/56115e14-640a-40c0-986c-b9d0c32bb5d1">
+
+
 ### Step #3
 Get the kids to do the following:
 1. Create a variable called "number" and assign this the value of 2.675 thats rounded to only **1** decimal
