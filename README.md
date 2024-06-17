@@ -1,5 +1,5 @@
-# Python teachings
-This repo is meant as a place to write down a somewhat more concrete and structured "plan" for teaching kids how to program in Python.
+# Python undervisning
+Dette repo er ment som et sted til at skrive en mere eller mindre konkret og struktureret "plan" til at undervise børn i at programmere i Python.
 
 ## Teaching plan
 These (hopefuly quite concrete) thoughts about teaching kids Python are structured in a sort of "teachings per evening" so that it'll hopefully be more managable to teach the kids about this topic.
