@@ -12,6 +12,12 @@ From this - hopefully good - starting point one would obviously need to get the 
 1. Download Python
 2. Download VS Code
 
+### Download Python
+Obviously Python can be downloaded from [https://www.python.org/](https://www.python.org/) as shown here:
+
+<img width="1384" alt="python_org" src="https://github.com/coding-pirates-hillerod/python-teachings/assets/21309287/158189a6-4097-4d84-abfc-a42443452c86">
+
+
 ## Install VS Code Extensions (Est. time: 10 min)
 After having downloaded Python and VS Code make the kids download the following extensions for syntax help and easily running code:
 1. Python (by Microsoft)
